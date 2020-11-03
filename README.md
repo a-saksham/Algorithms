@@ -1,6 +1,6 @@
 # Algorithms
 
-###This Repository consist of the following algorithms:
+### This Repository consist of the following algorithms:
 
 - Backtracking
 - Binary Search Tree

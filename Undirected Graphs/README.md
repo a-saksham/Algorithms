@@ -1,6 +1,6 @@
-#Undirected Graphs
+# Undirected Graphs
 
-###Implementation of Graphs
+### Implementation of Graphs
 
 - Breadth First Search
 - Depth First Search with Pre and Post visit count
