@@ -1,5 +1,8 @@
-Undirected Graphs
+#Undirected Graphs
 
-Contents:
-a. Breadth First Search
-b. Depth First Search with Pre and Post visit count
+###Implementation of Graphs
+
+- Breadth First Search
+- Depth First Search with Pre and Post visit count
+
+**_more coming soon_**
