@@ -1,6 +1,9 @@
-Implementation of Backtracking Algorithm by solving the following Problems:
+# BackTracking
 
-a. n-Queen
-b. Sudoku Solver
-c. Finding all Unique Combinations where sum equals to target
+### Implementation of Backtracking Algorithm by solving the following Problems:
 
+- Sudoku Solver
+- Finding all Unique Combinations where sum equals to target
+- n-Queens
+
+**_more coming soon_**

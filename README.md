@@ -1,11 +1,12 @@
 # Algorithms
 
-This Repository consist of the following algorithms:
+###This Repository consist of the following algorithms:
 
-a. Sorting Algorithms
-b. Binary Search Tree
-c. Heap Sort
-d. Backtracking
-e. Dynamic Programming
+- Backtracking
+- Binary Search Tree
+- Dynamic Programming
+- Heap Sort
+- Sorting Algorithms
+- Undirected Graphs
 
-*more coming soon*
+**_more coming soon_**
